@@ -11,3 +11,12 @@ Real-Time Data Engineering with Snowflake: ODI Cricket Analytics Description: De
 
 ![Screenshot (1023)](https://github.com/user-attachments/assets/5a225ce4-9253-483b-9e47-167cec664975)
 
+![Screenshot 2025-01-07 154446](https://github.com/user-attachments/assets/5bb4ec5a-b844-42a3-a9de-c937ed38fe1d)
+
+![Screenshot 2025-01-07 153426](https://github.com/user-attachments/assets/c0b134be-5a10-4bb6-81c9-7e59d723f689)
+
+![Screenshot 2025-01-07 153220](https://github.com/user-attachments/assets/0bc20481-01c4-477f-8c32-d7cb2752daeb)
+
+![Screenshot 2025-01-07 153051](https://github.com/user-attachments/assets/a733ca00-aea7-4bd1-973f-f1a3eca68095)
+
+
